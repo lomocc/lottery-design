@@ -1,0 +1,99 @@
+﻿<project version="2.9" name="lottery-design" ID="461A61BA-740C-41B5-96A8-0F7AB48A7F48">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtPad" orientation="MoLandscape" mobileScreenScale="0" mobileType="mmtTablet" pageSize="(1280,720)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="首页" ID="F82F622B-4598-4BF6-93F9-5307FB7E133C" expanded="True" code="iU2Cd7qD3K" thumbCode="iU2Cd7qD3K" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="802ABB430F21050BBE21604061F9674A.png"/>
+        <image key="2C911C6D9E3AC0FC025DB7CB11875F97.png"/>
+        <image key="DD3CEAC7711244177AC9CF31071D7D9B.png"/>
+        <image key="9E6D3170936B99458050F63D62D13D99.png"/>
+        <image key="7F859C3CCA5C29DF0EFDD71660F93AF7.png"/>
+        <image key="012BB4E9FE191F52F63D7B577BA253E4.png"/>
+        <image key="B7215C2E94F6423ECB5734AA4FE26B13.png"/>
+        <image key="217D8C57A111E49C18F625CDC6D26F63.png"/>
+        <image key="05A3DB7E5A637094503F65426ECA491A.png"/>
+        <image key="BE1C79410FF449B5917821C7B9D8EF68.png"/>
+      </images>
+    </page>
+    <page name="彩种们" ID="EF23DF31-5D75-456E-8A48-EA9F8F7F7C42" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+      <page name="双色球" ID="9886FA62-1395-47A2-99BA-A0E52519BB55" expanded="True" code="J2ZGlI997R" thumbCode="J2ZGlI997R" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="3C3D1B980D04C748537FE09F7D0F1DEF.svg"/>
+          <image key="05A3DB7E5A637094503F65426ECA491A.png"/>
+          <image key="7F859C3CCA5C29DF0EFDD71660F93AF7.png"/>
+          <image key="55696851B52CB13FF236E48F2107DDD2.svg"/>
+        </images>
+        <page name="单式投注" ID="29F091FB-F557-43D4-92B6-FB932733B88B" expanded="True" code="BecZMQlILL" thumbCode="BecZMQlILL" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="3C3D1B980D04C748537FE09F7D0F1DEF.svg"/>
+            <image key="55696851B52CB13FF236E48F2107DDD2.svg"/>
+          </images>
+        </page>
+        <page name="复式投注" ID="2F64B957-B3A4-46DE-891B-4C778C98DB63" expanded="True" code="AGJhKlXWQQ" thumbCode="AGJhKlXWQQ" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="3C3D1B980D04C748537FE09F7D0F1DEF.svg"/>
+            <image key="55696851B52CB13FF236E48F2107DDD2.svg"/>
+          </images>
+        </page>
+        <page name="胆拖投注" ID="270348CD-04EB-4E71-8891-B90C8655E915" expanded="True" code="OVMaquOOcH" thumbCode="OVMaquOOcH" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="3C3D1B980D04C748537FE09F7D0F1DEF.svg"/>
+            <image key="55696851B52CB13FF236E48F2107DDD2.svg"/>
+          </images>
+        </page>
+      </page>
+      <page name="快三" ID="CAD96066-861F-436B-A926-A8F41359FE3D" expanded="True" code="xqRktYwXRT" thumbCode="NsO2Jiq9dP" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="3D" ID="FB76F977-B523-4B4E-B300-B0B0C4E2C29B" expanded="True" code="eyPZYqp1xY" thumbCode="eyPZYqp1xY" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="30x5" ID="74E4F93E-1842-45B0-9C11-EEFBC1C67B4D" expanded="True" code="2k2pgj4iRu" thumbCode="2k2pgj4iRu" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="7lc" ID="A7C52068-6209-4E5B-8E3F-A770F532B7EA" expanded="True" code="QH4kebglC3" thumbCode="QH4kebglC3" status="psWhite" isfolder="False" isshownode="True"/>
+    </page>
+    <page name="帮助" ID="EB707C9B-CF62-4B0C-ACC5-49ED72232DC2" expanded="True" code="dJ1BH32C1T" thumbCode="dJ1BH32C1T" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="账户中心" ID="B5B163E1-4BCA-4E6C-BB92-18392EE72A86" expanded="True" code="DaXjiWeqmv" thumbCode="DaXjiWeqmv" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="开奖列表" ID="34653606-9039-44B2-B25C-6F37BA7E0E53" expanded="True" code="vG2gk5csUV" thumbCode="vG2gk5csUV" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="玩法们" ID="82150CF2-C5BA-40D2-B75C-4AF74D900D7F" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+      <page name="双色球" ID="43A0E527-2CC2-4CCC-AEFA-931B8C5F7DAC" expanded="True" code="uOkYAl6OFN" thumbCode="uOkYAl6OFN" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="快三" ID="10C8DC03-9DFD-4C36-9920-9A26B6EA97D7" expanded="True" code="FpmQOwc1qS" thumbCode="FpmQOwc1qS" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="30选5" ID="08D0AF6A-7278-43FF-B88A-664EAD0BBFDA" expanded="True" code="Hl6UDY3WEq" thumbCode="rwbpONj532" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="七乐彩" ID="F5B47787-4975-49E7-AAAB-CF5C9D1CC42C" expanded="True" code="MuN6JSVuZC" thumbCode="MuN6JSVuZC" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="3D" ID="EFAFB6F0-47CE-4752-B34D-090D5B78D0B1" expanded="True" code="JFlLAYXeOI" thumbCode="FQRSaQPlQ9" status="psWhite" isfolder="False" isshownode="True"/>
+    </page>
+    <page name="开奖详情们" ID="D967DAE8-51B2-4BC2-842F-31F917A45289" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+      <page name="双色球" ID="2A7E8A2D-7F88-4D04-B6AC-AE9BB2FEC2EE" expanded="True" code="3jGijWXGww" thumbCode="1NMeVK9b1i" status="psWhite" isfolder="False" isshownode="True">
+        <page name="页面" ID="87B26027-BC09-49DD-A825-AC46936BA4E7" expanded="True" code="4Rj2rnEp9I" thumbCode="4Rj2rnEp9I" status="psWhite" isfolder="False" isshownode="True"/>
+      </page>
+      <page name="快三" ID="0C869815-5E57-483E-AB4B-6551226332CC" expanded="True" code="71l6Eu8zPH" thumbCode="71l6Eu8zPH" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="30选5" ID="02D35E2D-B444-4463-8D16-D8CEF562123C" expanded="False" code="Xrh4fhyqtN" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="七乐彩" ID="3CCDF152-E1C7-4224-A3ED-5A142EB0165F" expanded="False" code="Fe6mlBTi17" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="3D" ID="3E15B9CA-646C-49DA-854B-012B3D7C7E46" expanded="True" code="fV2lDxLYVD" thumbCode="fV2lDxLYVD" status="psWhite" isfolder="False" isshownode="True"/>
+    </page>
+    <page name="模态框们" ID="01AFDF7C-0482-4899-B5CF-03D024C28BB1" expanded="True" status="psGreen" isfolder="True" isshownode="True">
+      <page name="登录" ID="A08C5C76-40E5-4F40-8DD3-C540843DE2C2" expanded="True" code="fizW1aAmbu" thumbCode="fizW1aAmbu" status="psWhite" isfolder="False" isshownode="True"/>
+    </page>
+  </pages>
+  <trash>
+    <page name="双色球1" ID="C462FEB2-B4C2-436A-9713-970AB1052B4E" expanded="False" code="jiNaIBlKUT" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="49BC1399-C634-42BE-95D9-87D4DC2F73E2" expanded="False" code="n47IWlBLG9" thumbCode="xO22c48ahC" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="A1DD62BE-56C1-4DC1-B750-E04F76E85066" expanded="False" code="NtqcVh3PPy" thumbCode="D2q7bBFHUf" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="802ABB430F21050BBE21604061F9674A.png"/>
+    <image key="2C911C6D9E3AC0FC025DB7CB11875F97.png"/>
+    <image key="3C3D1B980D04C748537FE09F7D0F1DEF.svg"/>
+    <image key="DD3CEAC7711244177AC9CF31071D7D9B.png"/>
+    <image key="B7215C2E94F6423ECB5734AA4FE26B13.png"/>
+    <image key="7F859C3CCA5C29DF0EFDD71660F93AF7.png"/>
+    <image key="9E6D3170936B99458050F63D62D13D99.png"/>
+    <image key="012BB4E9FE191F52F63D7B577BA253E4.png"/>
+    <image key="55696851B52CB13FF236E48F2107DDD2.svg"/>
+    <image key="05A3DB7E5A637094503F65426ECA491A.png"/>
+    <image key="217D8C57A111E49C18F625CDC6D26F63.png"/>
+    <image key="BE1C79410FF449B5917821C7B9D8EF68.png"/>
+  </images>
+</project>
