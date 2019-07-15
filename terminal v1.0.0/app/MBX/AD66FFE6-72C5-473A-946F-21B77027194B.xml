@@ -1,0 +1,16 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="AD66FFE6-72C5-473A-946F-21B77027194B" platform="MtPad" defaultW="1280" defaultH="720" measureW="1280" measureH="720" screenOrientation="MoLandscape" mobileScreenScale="0">
+  <controls controlCount="1">
+    <control controlID="6330C264-DA0D-4D09-94A8-C4EE6302D22A" controlTypeID="Alert" x="415" y="250" w="358" h="200" zOrder="0">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%8F%90%E7%A4%BA%0D%0A%0D%0A%0D%0A%E5%BD%93%E5%89%8D%E6%9C%89%E8%AE%A2%E5%8D%95%E6%9C%AA%E5%AE%8C%E6%88%90%0D%0A%E7%A1%AE%E5%AE%9A%E8%A6%81%E9%80%80%E5%87%BA%3F%0D%0A%E5%90%A6%2C%E6%98%AF</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

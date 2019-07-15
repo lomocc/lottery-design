@@ -6,7 +6,7 @@
     <colorParam version="1.0"/>
   </params>
   <pages>
-    <page name="首页" ID="F82F622B-4598-4BF6-93F9-5307FB7E133C" expanded="True" code="iU2Cd7qD3K" thumbCode="iU2Cd7qD3K" status="psWhite" isfolder="False" isshownode="True">
+    <page name="首页" ID="F82F622B-4598-4BF6-93F9-5307FB7E133C" expanded="True" code="J9UO6kC7pe" thumbCode="J9UO6kC7pe" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="802ABB430F21050BBE21604061F9674A.png"/>
         <image key="2C911C6D9E3AC0FC025DB7CB11875F97.png"/>
@@ -21,12 +21,13 @@
       </images>
     </page>
     <page name="彩种们" ID="EF23DF31-5D75-456E-8A48-EA9F8F7F7C42" expanded="True" status="psGreen" isfolder="True" isshownode="True">
-      <page name="双色球" ID="9886FA62-1395-47A2-99BA-A0E52519BB55" expanded="True" code="J2ZGlI997R" thumbCode="J2ZGlI997R" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <page name="双色球" ID="9886FA62-1395-47A2-99BA-A0E52519BB55" expanded="True" code="W5kw4lBddH" thumbCode="W5kw4lBddH" status="psWhite" isfolder="False" isshownode="True">
         <images>
+          <image key="4F2AE68A1F33D324B7BDB50167C52875.svg"/>
           <image key="3C3D1B980D04C748537FE09F7D0F1DEF.svg"/>
-          <image key="05A3DB7E5A637094503F65426ECA491A.png"/>
           <image key="7F859C3CCA5C29DF0EFDD71660F93AF7.png"/>
           <image key="55696851B52CB13FF236E48F2107DDD2.svg"/>
+          <image key="A3B89FB8D7A942600AD5240B7C821AF9.svg"/>
         </images>
         <page name="单式投注" ID="29F091FB-F557-43D4-92B6-FB932733B88B" expanded="True" code="BecZMQlILL" thumbCode="BecZMQlILL" status="psWhite" isfolder="False" isshownode="True">
           <images>
@@ -46,8 +47,14 @@
             <image key="55696851B52CB13FF236E48F2107DDD2.svg"/>
           </images>
         </page>
+        <page name="确认提示框" ID="AD66FFE6-72C5-473A-946F-21B77027194B" expanded="True" code="MNj1olJZhA" thumbCode="MNj1olJZhA" status="psWhite" isfolder="False" isshownode="True"/>
       </page>
-      <page name="快三" ID="CAD96066-861F-436B-A926-A8F41359FE3D" expanded="True" code="xqRktYwXRT" thumbCode="NsO2Jiq9dP" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="快三" ID="CAD96066-861F-436B-A926-A8F41359FE3D" expanded="True" code="deUYgMnqQM" thumbCode="deUYgMnqQM" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="9E6D3170936B99458050F63D62D13D99.png"/>
+          <image key="7F859C3CCA5C29DF0EFDD71660F93AF7.png"/>
+        </images>
+      </page>
       <page name="3D" ID="FB76F977-B523-4B4E-B300-B0B0C4E2C29B" expanded="True" code="eyPZYqp1xY" thumbCode="eyPZYqp1xY" status="psWhite" isfolder="False" isshownode="True"/>
       <page name="30x5" ID="74E4F93E-1842-45B0-9C11-EEFBC1C67B4D" expanded="True" code="2k2pgj4iRu" thumbCode="2k2pgj4iRu" status="psWhite" isfolder="False" isshownode="True"/>
       <page name="7lc" ID="A7C52068-6209-4E5B-8E3F-A770F532B7EA" expanded="True" code="QH4kebglC3" thumbCode="QH4kebglC3" status="psWhite" isfolder="False" isshownode="True"/>
@@ -84,16 +91,18 @@
   <masters/>
   <images>
     <image key="802ABB430F21050BBE21604061F9674A.png"/>
-    <image key="2C911C6D9E3AC0FC025DB7CB11875F97.png"/>
     <image key="3C3D1B980D04C748537FE09F7D0F1DEF.svg"/>
     <image key="DD3CEAC7711244177AC9CF31071D7D9B.png"/>
     <image key="B7215C2E94F6423ECB5734AA4FE26B13.png"/>
     <image key="7F859C3CCA5C29DF0EFDD71660F93AF7.png"/>
+    <image key="A3B89FB8D7A942600AD5240B7C821AF9.svg"/>
+    <image key="05A3DB7E5A637094503F65426ECA491A.png"/>
+    <image key="BE1C79410FF449B5917821C7B9D8EF68.png"/>
     <image key="9E6D3170936B99458050F63D62D13D99.png"/>
     <image key="012BB4E9FE191F52F63D7B577BA253E4.png"/>
     <image key="55696851B52CB13FF236E48F2107DDD2.svg"/>
-    <image key="05A3DB7E5A637094503F65426ECA491A.png"/>
     <image key="217D8C57A111E49C18F625CDC6D26F63.png"/>
-    <image key="BE1C79410FF449B5917821C7B9D8EF68.png"/>
+    <image key="4F2AE68A1F33D324B7BDB50167C52875.svg"/>
+    <image key="2C911C6D9E3AC0FC025DB7CB11875F97.png"/>
   </images>
 </project>

@@ -11,29 +11,29 @@
       <radiusIsPercent>True</radiusIsPercent>
       <URL>BE1C79410FF449B5917821C7B9D8EF68.png</URL>
     </control>
-    <control controlID="37D58D6D-2A80-4DAC-8FCB-64FC7831EA55" controlTypeID="Label" x="523" y="666" w="234" h="27" zOrder="3">
+    <control controlID="37D58D6D-2A80-4DAC-8FCB-64FC7831EA55" controlTypeID="Label" x="500" y="664" w="280" h="32" zOrder="3">
       <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>%E5%AE%A2%E6%9C%8D%E7%94%B5%E8%AF%9D%EF%BC%9A400-9913-700</text>
       <textColor>4294967295</textColor>
-      <textSize>20</textSize>
+      <textSize>24</textSize>
       <lineSpacing>0</lineSpacing>
       <useDefaultTextSize>False</useDefaultTextSize>
       <selectedIndex>-1</selectedIndex>
     </control>
-    <control controlID="A9AB4CE6-4E44-4B83-A493-2888536A5254" controlTypeID="Label" x="30" y="666" w="170" h="27" zOrder="4">
+    <control controlID="A9AB4CE6-4E44-4B83-A493-2888536A5254" controlTypeID="Label" x="20" y="664" w="203" h="32" zOrder="4">
       <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>%E7%AB%99%E7%82%B9%E5%8F%B7%EF%BC%9A42950501</text>
       <textColor>4294967295</textColor>
-      <textSize>20</textSize>
+      <textSize>24</textSize>
       <lineSpacing>0</lineSpacing>
       <useDefaultTextSize>False</useDefaultTextSize>
       <selectedIndex>-1</selectedIndex>
     </control>
-    <control controlID="20CA88F5-355C-47EA-9AE6-C653F2FA22BD" controlTypeID="Label" x="1114" y="666" w="126" h="27" zOrder="5">
+    <control controlID="20CA88F5-355C-47EA-9AE6-C653F2FA22BD" controlTypeID="Label" x="1108" y="664" w="152" h="32" zOrder="5">
       <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>%E7%89%88%E6%9C%AC%E5%8F%B7%EF%BC%9A+1.0.1</text>
       <textColor>4294967295</textColor>
-      <textSize>20</textSize>
+      <textSize>24</textSize>
       <lineSpacing>0</lineSpacing>
       <useDefaultTextSize>False</useDefaultTextSize>
       <selectedIndex>-1</selectedIndex>
@@ -55,11 +55,11 @@
           <caption>%E5%8F%8C%E8%89%B2%E7%90%83</caption>
           <URL>7F859C3CCA5C29DF0EFDD71660F93AF7.png</URL>
         </control>
-        <control controlID="FA5F5D7E-C970-49B3-95C8-04FB43FDBBC6" controlTypeID="Label" x="36" y="27" w="159" h="32" zOrder="2">
+        <control controlID="FA5F5D7E-C970-49B3-95C8-04FB43FDBBC6" controlTypeID="Label" x="25" y="22" w="186" h="37" zOrder="2">
           <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
           <text>%E7%AC%AC20190712%E6%9C%9F</text>
           <textColor>4294967295</textColor>
-          <textSize>24</textSize>
+          <textSize>28</textSize>
           <lineSpacing>0</lineSpacing>
           <useDefaultTextSize>False</useDefaultTextSize>
           <selectedIndex>-1</selectedIndex>
@@ -73,11 +73,11 @@
           <useDefaultTextSize>False</useDefaultTextSize>
           <selectedIndex>-1</selectedIndex>
         </control>
-        <control controlID="3E1C2B5B-6044-4CEB-ADD2-91FB4D37EBE0" controlTypeID="Label" x="58" y="259" w="119" h="27" zOrder="4">
+        <control controlID="3E1C2B5B-6044-4CEB-ADD2-91FB4D37EBE0" controlTypeID="Label" x="46" y="259" w="143" h="32" zOrder="4">
           <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
           <text>%E8%B7%9D%E7%A6%BB%E5%BC%80%E5%A5%96%E6%97%B6%E9%97%B4</text>
           <textColor>4294967295</textColor>
-          <textSize>20</textSize>
+          <textSize>24</textSize>
           <lineSpacing>0</lineSpacing>
           <useDefaultTextSize>False</useDefaultTextSize>
           <selectedIndex>-1</selectedIndex>
@@ -98,11 +98,11 @@
               <caption>lottery_30x5</caption>
               <URL>802ABB430F21050BBE21604061F9674A.png</URL>
             </control>
-            <control controlID="3E606F72-5785-4E5B-8584-A591BBA72C5A" controlTypeID="Label" x="56" y="21" w="119" h="24" zOrder="2">
+            <control controlID="3E606F72-5785-4E5B-8584-A591BBA72C5A" controlTypeID="Label" x="54" y="23" w="133" h="27" zOrder="2">
               <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <text>%E7%AC%AC20190712%E6%9C%9F</text>
               <textColor>4294967295</textColor>
-              <textSize>18</textSize>
+              <textSize>20</textSize>
               <lineSpacing>0</lineSpacing>
               <useDefaultTextSize>False</useDefaultTextSize>
               <selectedIndex>-1</selectedIndex>
@@ -121,11 +121,11 @@
               <caption>%E7%A8%BF%E5%AE%9A%E8%AE%BE%E8%AE%A1%E5%AF%BC%E5%87%BA-20190701-192855</caption>
               <URL>012BB4E9FE191F52F63D7B577BA253E4.png</URL>
             </control>
-            <control controlID="FC0AEF77-63CC-4457-832F-4CA1D2956805" controlTypeID="Label" x="56" y="18" w="119" h="24" zOrder="2">
+            <control controlID="FC0AEF77-63CC-4457-832F-4CA1D2956805" controlTypeID="Label" x="50" y="17" w="133" h="27" zOrder="2">
               <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <text>%E7%AC%AC20190712%E6%9C%9F</text>
               <textColor>4294967295</textColor>
-              <textSize>18</textSize>
+              <textSize>20</textSize>
               <lineSpacing>0</lineSpacing>
               <useDefaultTextSize>False</useDefaultTextSize>
               <selectedIndex>-1</selectedIndex>
@@ -163,11 +163,11 @@
           <useDefaultTextSize>False</useDefaultTextSize>
           <selectedIndex>-1</selectedIndex>
         </control>
-        <control controlID="57A04529-EEF2-42CF-86A2-817EDDAC7AB8" controlTypeID="Label" x="58" y="259" w="119" h="27" zOrder="3">
+        <control controlID="57A04529-EEF2-42CF-86A2-817EDDAC7AB8" controlTypeID="Label" x="47" y="259" w="143" h="32" zOrder="3">
           <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
           <text>%E8%B7%9D%E7%A6%BB%E5%BC%80%E5%A5%96%E6%97%B6%E9%97%B4</text>
           <textColor>4294967295</textColor>
-          <textSize>20</textSize>
+          <textSize>24</textSize>
           <lineSpacing>0</lineSpacing>
           <useDefaultTextSize>False</useDefaultTextSize>
           <selectedIndex>-1</selectedIndex>
@@ -181,10 +181,10 @@
     <control controlID="646DD9E5-C924-45C8-8FA3-02F1D71F0B54" controlTypeID="Image" x="711" y="229" w="50" h="51" zOrder="10">
       <URL>2C911C6D9E3AC0FC025DB7CB11875F97.png</URL>
     </control>
-    <control controlID="D28E9749-563D-4F8D-868F-22EC94FDA9D3" controlTypeID="Image" x="1226" y="178" w="54" h="61" zOrder="11">
+    <control controlID="D28E9749-563D-4F8D-868F-22EC94FDA9D3" controlTypeID="Image" x="1206" y="168" w="74" h="84" zOrder="11">
       <interactiveData>
         <entry title="">
-          <area shape="0" alt="" ID="{C03C3B10-D936-4E48-8D63-E81195FB075A}" coords="(0,0,54,61)"/>
+          <area shape="0" alt="" ID="{C03C3B10-D936-4E48-8D63-E81195FB075A}" coords="(0,0,74,84)"/>
           <events title="">
             <event eventType="atClick" isChecked="True">
               <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
@@ -233,11 +233,11 @@
           <useDefaultTextSize>False</useDefaultTextSize>
           <selectedIndex>-1</selectedIndex>
         </control>
-        <control controlID="5C4B7454-F92F-4EC3-8D27-BA05BC4E9885" controlTypeID="Label" x="58" y="259" w="119" h="27" zOrder="3">
+        <control controlID="5C4B7454-F92F-4EC3-8D27-BA05BC4E9885" controlTypeID="Label" x="45" y="259" w="143" h="32" zOrder="3">
           <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
           <text>%E8%B7%9D%E7%A6%BB%E5%BC%80%E5%A5%96%E6%97%B6%E9%97%B4</text>
           <textColor>4294967295</textColor>
-          <textSize>20</textSize>
+          <textSize>24</textSize>
           <lineSpacing>0</lineSpacing>
           <useDefaultTextSize>False</useDefaultTextSize>
           <selectedIndex>-1</selectedIndex>
@@ -264,7 +264,7 @@
           </groupChildrenDescriptors>
           <thinkness>1</thinkness>
         </control>
-        <control controlID="977B809B-DDE1-462C-A33D-FA436A3B7A6F" controlTypeID="PopupPanelContent" x="576" y="188" w="644" h="49" zOrder="1">
+        <control controlID="977B809B-DDE1-462C-A33D-FA436A3B7A6F" controlTypeID="PopupPanelContent" x="563" y="188" w="644" h="49" zOrder="1">
           <color>16777215</color>
           <alias>content</alias>
           <groupChildrenDescriptors>
